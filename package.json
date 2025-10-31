@@ -11,6 +11,6 @@
     "next": "13.5.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "@whop/sdk": "0.0.6"
+    "@whop/sdk": "0.01-canary.117"
   }
 }
